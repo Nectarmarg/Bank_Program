@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|c:\\users\\nektarios\\source\\repos\\karagiannhs_final_project\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FF3D2E7-945C-4CFC-A9BA-5B74001EDF6D}|KARAGIANNHS_FINAL_PROJECT.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form3.vb",
+              "RelativeToolTip": "Form3.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T19:59:38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form5.vb",
+              "RelativeDocumentMoniker": "Form5.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form5.vb",
+              "RelativeToolTip": "Form5.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-21T21:15:25.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form5.vb",
+              "RelativeDocumentMoniker": "Form5.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form5.vb [Design]",
+              "RelativeToolTip": "Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-20T22:42:54.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form3.vb [Design]",
+              "RelativeToolTip": "Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-18T22:15:09.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form7.vb",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form7.vb",
+              "RelativeDocumentMoniker": "Form7.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form7.vb",
+              "RelativeToolTip": "Form7.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T16:59:11.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T12:39:43.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T13:03:38.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form6.vb",
+              "RelativeDocumentMoniker": "Form6.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form6.vb [Design]",
+              "RelativeToolTip": "Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T19:00:04.517Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T12:39:07.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T12:20:57.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form4.vb",
+              "RelativeDocumentMoniker": "Form4.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form4.vb",
+              "RelativeToolTip": "Form4.vb",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-19T19:46:43.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form4.vb",
+              "RelativeDocumentMoniker": "Form4.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form4.vb [Design]",
+              "RelativeToolTip": "Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-19T19:26:24.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form7.vb",
+              "RelativeDocumentMoniker": "Form7.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form7.vb [Design]",
+              "RelativeToolTip": "Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T16:01:06.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form6.vb",
+              "RelativeDocumentMoniker": "Form6.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Form6.vb",
+              "RelativeToolTip": "Form6.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T19:11:57.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\Nektarios\\source\\repos\\KARAGIANNHS_FINAL_PROJECT\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T13:13:48.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
